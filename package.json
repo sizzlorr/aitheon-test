@@ -1,0 +1,23 @@
+{
+  "author": "Igor V",
+  "devDependencies": {
+    "autoprefixer": "^9.5.0",
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-csso": "^3.0.1",
+    "gulp-jsmin": "^0.1.5",
+    "gulp-livereload": "^4.0.1",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "description": "Aithon test",
+  "license": "ISC",
+  "engines": {
+    "npm": "~9.11.1"
+  },
+  "dependencies": {
+    "live-reload": "^1.1.0"
+  }
+}
